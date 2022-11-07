@@ -1,7 +1,5 @@
 # Breast Cancer Detection - Classification - Pycaret
 
-**Complete Video Tutorial:** https://youtu.be/janK8osSKPs
-
 # Dataset Information
 
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
